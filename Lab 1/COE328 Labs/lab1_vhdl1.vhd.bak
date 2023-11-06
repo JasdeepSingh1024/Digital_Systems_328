@@ -1,0 +1,17 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.al1;
+USE ieee.std_logic_unsigned.all;
+
+
+ENTITY Lab1_Vhdl2 IS
+PORT (wl, w2, w3, w4 : IN STD LOGIC;
+-g.h : OUT STD_LOGIC);
+end Lab2_Vhdl2;
+
+
+
+ARCHITECTURE Behaviour OF Lab2_Vhdl2 IS
+BEGIN
+g<= (w1 AND w2) OR ( w2 AND W3);
+h<= (wl AND w3) OR ( W2 AND W4);
+END behaviour;

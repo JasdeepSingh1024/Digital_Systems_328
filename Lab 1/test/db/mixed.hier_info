@@ -1,0 +1,13 @@
+|lab1_vhdl2
+w1 => g~0.IN0
+w1 => h~0.IN0
+w2 => g~0.IN1
+w2 => h~1.IN0
+w3 => g~1.IN0
+w3 => h~0.IN1
+w4 => g~1.IN1
+w4 => h~1.IN1
+g <= g~2.DB_MAX_OUTPUT_PORT_TYPE
+h <= h~2.DB_MAX_OUTPUT_PORT_TYPE
+
+

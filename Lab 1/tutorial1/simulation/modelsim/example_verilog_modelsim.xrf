@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Jassi/OneDrive/Ryerson UNI/Second Year/First Semester/COE328_Digital Systems/Labs/Lab 1/tutorial1/example_verilog.v
+source_file = 1, C:/Users/Jassi/OneDrive/Ryerson UNI/Second Year/First Semester/COE328_Digital Systems/Labs/Lab 1/tutorial1/example_verilog.vwf
+source_file = 1, C:/Users/Jassi/OneDrive/Ryerson UNI/Second Year/First Semester/COE328_Digital Systems/Labs/Lab 1/tutorial1/db/example_verilog.cbx.xml
+design_name = example_verilog
+instance = comp, \x1~I , x1, example_verilog, 1
+instance = comp, \x3~I , x3, example_verilog, 1
+instance = comp, \x2~I , x2, example_verilog, 1
+instance = comp, \f~0 , f~0, example_verilog, 1
+instance = comp, \f~I , f, example_verilog, 1

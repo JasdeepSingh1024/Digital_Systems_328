@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jassi\OneDrive\Ryerson UNI\Second Year\First Semester\COE328_Digital Systems\Labs\Lab 1\tutorial1\simulation\qsim
+vexample_verilog
+Z1 IGYZnNNfM3^joeO3TnndU51
+Z2 VaP?:azozLkIjoLan]zeAi0
+Z3 dC:\Users\Jassi\OneDrive\Ryerson UNI\Second Year\First Semester\COE328_Digital Systems\Labs\Lab 1\tutorial1\simulation\qsim
+Z4 w1663284204
+Z5 8example_verilog.vo
+Z6 Fexample_verilog.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 DEJ[@[UNMa5T8;b;_`CYQ1
+!s85 0
+Z10 !s108 1663284206.849000
+Z11 !s107 example_verilog.vo|
+Z12 !s90 -work|work|example_verilog.vo|
+!s101 -O0
+vexample_verilog_vlg_check_tst
+!i10b 1
+!s100 I:fKJXJiRddzLNJG4gC1X3
+ITY<;E9fJa?]<l_KlOGH5o2
+VB]^Zde>1U9N=N:kH?=:9e3
+R3
+Z13 w1663284203
+Z14 8example_verilog.vt
+Z15 Fexample_verilog.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1663284206.962000
+Z17 !s107 example_verilog.vt|
+Z18 !s90 -work|work|example_verilog.vt|
+!s101 -O0
+R8
+vexample_verilog_vlg_sample_tst
+!i10b 1
+!s100 <TQ@S;Pd?g31@19AN?X`L1
+IKNX2YVjSDgS[ZG;9@gnnR2
+VS=kT8?R;9Gh]]F?@TnZ6?1
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vexample_verilog_vlg_vec_tst
+!i10b 1
+!s100 iWXINc>Hn0kbPDg94@Vb81
+IhfKb3R2NE8L55Sm>jWd1S0
+VFO:TDF1CEj5PQiE1Y@J=90
+R3
+R13
+R14
+R15
+L0 156
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

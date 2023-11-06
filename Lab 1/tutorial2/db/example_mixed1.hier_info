@@ -1,0 +1,30 @@
+|example_mixed1
+f <= light:inst1.f
+w1 => lab1_vhdl2:inst.w1
+w2 => lab1_vhdl2:inst.w2
+w3 => lab1_vhdl2:inst.w3
+w4 => lab1_vhdl2:inst.w4
+x2 => light:inst1.x2
+
+
+|example_mixed1|light:inst1
+f <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+x2 => inst2.IN0
+x2 => inst.IN1
+x3 => inst1.IN1
+x1 => inst.IN0
+
+
+|example_mixed1|lab1_vhdl2:inst
+w1 => g~0.IN0
+w1 => h~0.IN0
+w2 => g~0.IN1
+w2 => h~1.IN0
+w3 => g~1.IN0
+w3 => h~0.IN1
+w4 => g~1.IN1
+w4 => h~1.IN1
+g <= g~2.DB_MAX_OUTPUT_PORT_TYPE
+h <= h~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
